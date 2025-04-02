@@ -1,5 +1,5 @@
 {
-  "name": "pm2-rest-api",
+  "name": "my-module",
   "type": "module",
   "scripts": {
     "dev": "bun run --hot src/index.ts",
